@@ -19,4 +19,4 @@
 - `AWS EC2, S3`
 - `CodeDeploy(현재위치 배포)`
 - `AWS Load-Balancer`
-- `AWS Auto-Scaling`
+- `Docker`
